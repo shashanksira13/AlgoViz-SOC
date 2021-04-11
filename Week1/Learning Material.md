@@ -9,7 +9,10 @@ https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F
 Lecture 1,2,3 and 4(before the hashing part begins)
 ### Task(Problems)
 https://www.spoj.com/problems/AGGRCOW/
+
 https://www.interviewbit.com/problems/sliding-window-maximum/
+
 https://www.interviewbit.com/problems/min-stack/
+
 https://codeforces.com/problemset/problem/913/A
 
